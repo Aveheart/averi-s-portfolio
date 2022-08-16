@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    display: block;
+}
+header{
+    background-color: antiquewhite;
+    text-align: left;
+    color: hotpink;
+    padding: 30px;
+}

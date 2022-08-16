@@ -5,6 +5,17 @@ header {
     background-color: yellow;
     color: purple;
 }
+header h1 {
+    font-size: 48px;
+    
+}
+
+body {
+    background-color: pink;
+    
+
+}
+    
 
 a {
     text-decoration: none;

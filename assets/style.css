@@ -1,0 +1,18 @@
+/* element styling */
+header {
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul li {
+    display: inline-block;
+    font-size: 20px;
+
+}

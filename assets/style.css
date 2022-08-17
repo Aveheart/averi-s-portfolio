@@ -30,11 +30,30 @@ a{
   padding-left: 15px;
 }
 main{
-  display: flex;
-  width: 95%;
+  display:flex;
+  width: 100%;
   margin: 2rem auto;
 }
-.sec {
- 
+.sec{
+  padding:20px;
+  margin:10px;
+}
 
+.cards{
+  padding:10px;
+}
+
+.card-column{
+  flex: 1 0 100%;
+  padding: 1.5rem;
+  transition: flex-basis 500ms linear;
+  margin-bottom: 1.5rem;
+  border-radius: 2%;
+}
+
+.img{
+  padding:10px;
+  }
+.content{
+  width:90%;
 }
